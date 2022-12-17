@@ -1,6 +1,8 @@
 # The-business-requirements-and-system-design-documents
 •	Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? 
+
 This project is for the new Client, DriverPass, a driving school company. The DriverPass’s owner, Liam, noticed many people failing their driving test at the DMV. Therefore, this project aims to provide a better driver training system for their customer (students). 
+
 •	What did you do particularly well?
 I did exceptionally well on the diagrams, especially the activity diagram for the login function. It was simple but detailed and comprehensive. In the activity diagram, I decomposed the login function. The user gets to choose to log in or reset their password. The system will validate the login or password reset requirement. If the password reset requirement matches, the user can create a new password. The system will lock the account if the login is invalided more than three times.
 •	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
